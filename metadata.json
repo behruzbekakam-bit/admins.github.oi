@@ -1,0 +1,6 @@
+{
+  "name": "Adolat AI - Oliy Advokat va Yuridik Yordamchi",
+  "description": "O'zbekiston va xorijdagi musofirlar uchun sun'iy intellektga asoslangan xalqaro advokat, hujjat tuzuvchi, shartnoma tahlili va ovozli yuridik maslahatchi.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
